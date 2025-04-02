@@ -1,4 +1,4 @@
-package com.vinayak.scanner.constants;
+package com.amolg.flutterbarcodescanner.constants;
 
 public interface AppConstants {
     int BARCODE_RECT_WIDTH = 350;

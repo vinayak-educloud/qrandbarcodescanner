@@ -1,4 +1,4 @@
-package com.vinayak.scannerexample;
+package com.amolg.flutterbarcodescannerexample;
 
 import android.os.Bundle;
 import io.flutter.app.FlutterActivity;

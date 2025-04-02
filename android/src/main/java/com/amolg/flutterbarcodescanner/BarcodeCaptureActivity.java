@@ -13,7 +13,7 @@
  * See the License for the specific language governing permissions and
  * limitations under the License.
  */
-package com.vinayak.scanner;
+package com.amolg.flutterbarcodescanner;
 
 import android.Manifest;
 import android.annotation.SuppressLint;
@@ -46,9 +46,9 @@ import android.widget.ImageView;
 import android.widget.Toast;
 
 
-import com.vinayak.scanner.camera.CameraSource;
-import com.vinayak.scanner.camera.CameraSourcePreview;
-import com.vinayak.scanner.camera.GraphicOverlay;
+import com.amolg.flutterbarcodescanner.camera.CameraSource;
+import com.amolg.flutterbarcodescanner.camera.CameraSourcePreview;
+import com.amolg.flutterbarcodescanner.camera.GraphicOverlay;
 import com.google.android.gms.common.ConnectionResult;
 import com.google.android.gms.common.GoogleApiAvailability;
 import com.google.android.gms.common.api.CommonStatusCodes;

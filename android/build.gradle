@@ -1,4 +1,4 @@
-group 'com.vinayak.scanner'
+group 'com.amolg.flutterbarcodescanner'
 version '1.0-SNAPSHOT'
 
 buildscript {
@@ -22,9 +22,8 @@ rootProject.allprojects {
 apply plugin: 'com.android.library'
 
 android {
-    namespace = "com.vinayak.scanner"    
     compileSdkVersion 30
-
+    namespace = "com.amolg.flutterbarcodescanner"
     defaultConfig {
         minSdkVersion 16
         targetSdkVersion 30
