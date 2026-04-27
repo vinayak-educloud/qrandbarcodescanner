@@ -1,4 +1,4 @@
-package com.amolg.flutterbarcodescanner;
+package com.vinayak.flutterbarcodescanner;
 
 import android.Manifest;
 import android.annotation.SuppressLint;
@@ -25,9 +25,9 @@ import androidx.annotation.NonNull;
 import androidx.appcompat.app.AppCompatActivity;
 import androidx.core.app.ActivityCompat;
 
-import com.amolg.flutterbarcodescanner.camera.CameraSource;
-import com.amolg.flutterbarcodescanner.camera.CameraSourcePreview;
-import com.amolg.flutterbarcodescanner.camera.GraphicOverlay;
+import com.vinayak.flutterbarcodescanner.camera.CameraSource;
+import com.vinayak.flutterbarcodescanner.camera.CameraSourcePreview;
+import com.vinayak.flutterbarcodescanner.camera.GraphicOverlay;
 import com.google.android.gms.common.ConnectionResult;
 import com.google.android.gms.common.GoogleApiAvailability;
 import com.google.android.gms.common.api.CommonStatusCodes;

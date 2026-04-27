@@ -1,4 +1,4 @@
-package com.amolg.flutterbarcodescanner.camera;
+package com.vinayak.flutterbarcodescanner.camera;
 
 import android.graphics.Canvas;
 import android.graphics.Color;
@@ -9,10 +9,10 @@ import android.graphics.RectF;
 import android.util.AttributeSet;
 import android.view.View;
 
-import com.amolg.flutterbarcodescanner.BarcodeCaptureActivity;
-import com.amolg.flutterbarcodescanner.FlutterBarcodeScannerPlugin;
-import com.amolg.flutterbarcodescanner.constants.AppConstants;
-import com.amolg.flutterbarcodescanner.utils.AppUtil;
+import com.vinayak.flutterbarcodescanner.BarcodeCaptureActivity;
+import com.vinayak.flutterbarcodescanner.FlutterBarcodeScannerPlugin;
+import com.vinayak.flutterbarcodescanner.constants.AppConstants;
+import com.vinayak.flutterbarcodescanner.utils.AppUtil;
 
 import java.util.HashSet;
 import java.util.List;

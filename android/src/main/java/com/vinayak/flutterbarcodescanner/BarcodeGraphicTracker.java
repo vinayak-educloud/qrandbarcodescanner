@@ -1,10 +1,10 @@
-package com.amolg.flutterbarcodescanner;
+package com.vinayak.flutterbarcodescanner;
 
 import android.content.Context;
 
 import androidx.annotation.UiThread;
 
-import com.amolg.flutterbarcodescanner.camera.GraphicOverlay;
+import com.vinayak.flutterbarcodescanner.camera.GraphicOverlay;
 import com.google.android.gms.vision.Detector;
 import com.google.android.gms.vision.Tracker;
 import com.google.android.gms.vision.barcode.Barcode;

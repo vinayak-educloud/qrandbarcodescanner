@@ -117,9 +117,9 @@ would :heart: to see any contribution, give :star:  if you like
 
 
 <p>
-<a href="https://github.com/AmolGangadhare"><img src="https://github.com/AmolGangadhare/MyProfileRepo/blob/master/git_hub_logo.png" width="32" height="33" style="max-width:100%;"></a>
-<a href="https://stackoverflow.com/users/9823185/amol-gangadhare" rel="nofollow"><img src="https://github.com/AmolGangadhare/MyProfileRepo/blob/master/stack_o_logo.svg" width="36" height="36" style="max-width:100%;"></a>
-<a href="https://www.linkedin.com/in/amolgangadhare/" rel="nofollow"><img src="https://github.com/AmolGangadhare/MyProfileRepo/blob/master/linked_in_logo.svg" width="36" height="36" style="max-width:100%;"></a>
+<a href="https://github.com/VinayakGangadhare"><img src="https://github.com/VinayakGangadhare/MyProfileRepo/blob/master/git_hub_logo.png" width="32" height="33" style="max-width:100%;"></a>
+<a href="https://stackoverflow.com/users/9823185/vinayak-gangadhare" rel="nofollow"><img src="https://github.com/VinayakGangadhare/MyProfileRepo/blob/master/stack_o_logo.svg" width="36" height="36" style="max-width:100%;"></a>
+<a href="https://www.linkedin.com/in/vinayakgangadhare/" rel="nofollow"><img src="https://github.com/VinayakGangadhare/MyProfileRepo/blob/master/linked_in_logo.svg" width="36" height="36" style="max-width:100%;"></a>
 </p>
 
-E-mail: amol.gangadhare@gmail.com
+E-mail: vinayak.gangadhare@gmail.com

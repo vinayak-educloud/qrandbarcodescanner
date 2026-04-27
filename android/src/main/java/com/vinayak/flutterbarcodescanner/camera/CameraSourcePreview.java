@@ -1,4 +1,4 @@
-package com.amolg.flutterbarcodescanner.camera;
+package com.vinayak.flutterbarcodescanner.camera;
 
 import android.Manifest;
 import android.content.Context;

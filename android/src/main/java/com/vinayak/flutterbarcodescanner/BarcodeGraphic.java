@@ -1,11 +1,11 @@
-package com.amolg.flutterbarcodescanner;
+package com.vinayak.flutterbarcodescanner;
 
 import android.graphics.Canvas;
 import android.graphics.Color;
 import android.graphics.Paint;
 import android.graphics.RectF;
 
-import com.amolg.flutterbarcodescanner.camera.GraphicOverlay;
+import com.vinayak.flutterbarcodescanner.camera.GraphicOverlay;
 import com.google.android.gms.vision.barcode.Barcode;
 
 public class BarcodeGraphic extends GraphicOverlay.Graphic {
